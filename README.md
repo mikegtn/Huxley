@@ -1,4 +1,4 @@
-# Huxley - Redeployed
+# Huxley - Redeployed v2
 
 [![Huxley](https://huxley.apphb.com/huxley.png "Huxley")](https://huxley.apphb.com/)
 
